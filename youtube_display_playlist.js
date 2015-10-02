@@ -1,6 +1,6 @@
 // set api key, playlistid and max_results variables
-var youtube_key = 'AIzaSyBrm7aHBhMvjDhJFaj0s9bXXEd45w7YfrE';
-var youtube_playlist_id = 'PLq3J_zhDNwnkHgSEXbX_hvrvv6v8jsdMv'; 
+var youtube_key = '';
+var youtube_playlist_id = ''; 
 var youtube_max_results = '50';
 
 // create json rest feed
